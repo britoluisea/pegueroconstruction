@@ -5,7 +5,7 @@
     <div class="container">
       <div class="col-lg-12">
         <h1 class="page-header">
-          welcome to <span>PEGUERO</span> CONTRUCTION
+          welcome to <span>PEGUERO</span> CONSTRUCTION
         </h1>
       </div>
       <div  class="col-md-6 mar-bot30">
